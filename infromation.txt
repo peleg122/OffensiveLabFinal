@@ -1,0 +1,28 @@
+Activity Manager: android.app.ActivityManager@89973e7
+Memory Info: android.app.ActivityManager$MemoryInfo@650eb94
+SERIAL: unknown
+MODEL: sdk_gphone_x86
+ID: RSR1.201013.001
+Manufacture: Google
+type: user
+hardware: ranchu
+user: android-build
+BASE: 1
+INCREMENTAL: 6903271
+SDK  11
+BOARD: goldfish_x86
+BRAND: google
+HOST: abfarm-us-west1-c-0089
+FINGERPRINT: google/sdk_gphone_x86/generic_x86_arm:11/RSR1.201013.001/6903271:user/release-keys
+Version Code: 11
+Phone language: English
+time: Asia/Jerusalem
+country: US
+year: 2022
+countryISO3: USA
+properties{java.io.tmpdir=/data/user/0/com.MagicDate/cache, http.agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.201013.001), user.home=}
+os.name : Linux
+os.version : 5.4.61-android11-0-00791-gbad091cc4bf3-ab6833933
+Width : 1080
+Height : 1794
+SD Card : mounted
